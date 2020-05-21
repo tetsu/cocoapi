@@ -2,6 +2,10 @@ images/
 annotations/
 results/
 external/
+COCOdataset2017/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
 .DS_Store
 
 MatlabAPI/analyze*/
